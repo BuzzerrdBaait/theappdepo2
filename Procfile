@@ -1,0 +1,4 @@
+
+web: gunicorn theappdepo.wsgi
+
+
